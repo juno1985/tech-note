@@ -1,0 +1,15 @@
+--git
+----clone repo from remote
+git clone git@github.com:softcits-pc-parent
+----check status
+git status
+
+
+--start google chrome
+google-chrome-stable
+
+
+--JVM TOOL
+----check JVM params
+jps -v
+
